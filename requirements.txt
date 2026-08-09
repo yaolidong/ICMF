@@ -1,0 +1,5 @@
+numpy==1.26.4
+scipy==1.11.4
+tqdm==4.67.1
+transformers==4.57.3
+Unidecode==1.4.0
